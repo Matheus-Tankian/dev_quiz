@@ -1,5 +1,5 @@
 
-import 'package:dev_quiz/pages/home/home_page.dart';
+import 'package:dev_quiz/Home/home_page.dart';
 import 'package:flutter/material.dart';
 
 class AppWidget extends StatelessWidget {
